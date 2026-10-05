@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FV4Mi1iORAY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kasha\\Desktop\\Telegram bot\\WeatherAndNotesBot\\WeatherAndNotesBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kasha\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\kasha\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\kasha\\.nuget\\packages\\telegram.bot\\22.10.3.2\\telegram.bot.22.10.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
